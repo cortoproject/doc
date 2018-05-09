@@ -5,7 +5,7 @@ In addition to features provided by markdown, cortodoc comes with a number of cu
 
 - highlight notes, warnings and console commands
 - syntax highlighting for popular languages
-- doxygen support
+- doxygen support ([example](https://corto.io/doc/Corto_API_Reference.html))
 - code generation from corto model files
 
 ** This document is a work in progress. Some sections may refer to features that are not yet implemented, and some links may not yet work **
@@ -62,7 +62,7 @@ After the generation has completed, the directory in which the command was execu
 [everything you need to know about cortodoc]
 
 ### Generating from a markdown file
-The corto doc tool (`https://github.com/cortoproject/driver-tool-doc`) is a simple front-end for the cortodoc framework. It accepts a single argument, which is a markdown file, for which it will invoke the cortodoc HTML generator. The following command generates HTML for a file called `README.md`:
+The corto doc tool (https://github.com/cortoproject/driver-tool-doc) is a simple front-end for the cortodoc framework. It accepts a single argument, which is a markdown file, for which it will invoke the cortodoc HTML generator. The following command generates HTML for a file called `README.md`:
 
 ```demo
 corto doc README.md
