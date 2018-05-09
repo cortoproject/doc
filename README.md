@@ -41,11 +41,11 @@ The cortodoc implementation can be found in the following repositories, in the c
 
 Repository | Description
 -----------|-------------
-driver-tool-doc | The tool that is invoked when the `corto doc` command is ran
-driver-gen-doc-doxygen | Doxygen to markdown generator
-driver-gen-doc-html | HTML generator for cortodoc objects
-driver-ext-md | Markdown parser that stores markdown as cortodoc objects
-doc | Documentation for cortodoc
+[driver-tool-doc](https://github.com/cortoproject/driver-tool-doc) | The tool that is invoked when the `corto doc` command is ran
+[driver-gen-doc-doxygen](https://github.com/cortoproject/driver-gen-doc-doxygen) | Doxygen to markdown generator
+[driver-gen-doc-html](https://github.com/cortoproject/driver-gen-doc-html) | HTML generator for cortodoc objects
+[driver-ext-md](https://github.com/cortoproject/driver-ext-md) | Markdown parser that stores markdown as cortodoc objects
+[doc](https://github.com/cortoproject/doc) | Documentation for cortodoc
 
 ## Getting started
 [quick start for new users]
